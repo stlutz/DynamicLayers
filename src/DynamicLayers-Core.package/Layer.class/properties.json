@@ -1,0 +1,18 @@
+{
+	"category" : "DynamicLayers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NamedLayers" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"preconditions",
+		"activators",
+		"processes",
+		"projects",
+		"name" ],
+	"name" : "Layer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

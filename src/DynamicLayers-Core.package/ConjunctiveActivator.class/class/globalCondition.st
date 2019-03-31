@@ -1,0 +1,4 @@
+default conditions
+globalCondition
+
+	^ true

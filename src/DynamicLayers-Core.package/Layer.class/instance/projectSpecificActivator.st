@@ -1,0 +1,4 @@
+activators
+projectSpecificActivator
+
+	^ [self hasActiveProject]

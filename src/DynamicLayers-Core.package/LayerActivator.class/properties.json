@@ -1,0 +1,14 @@
+{
+	"category" : "DynamicLayers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LayerActivator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

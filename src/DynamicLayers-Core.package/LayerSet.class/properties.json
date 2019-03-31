@@ -1,0 +1,14 @@
+{
+	"category" : "DynamicLayers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"layers" ],
+	"name" : "LayerSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

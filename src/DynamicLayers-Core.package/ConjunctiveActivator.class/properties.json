@@ -1,0 +1,15 @@
+{
+	"category" : "DynamicLayers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conditions",
+		"identifier" ],
+	"name" : "ConjunctiveActivator",
+	"pools" : [
+		 ],
+	"super" : "LayerActivator",
+	"type" : "normal" }

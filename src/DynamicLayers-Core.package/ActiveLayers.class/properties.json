@@ -1,0 +1,14 @@
+{
+	"category" : "DynamicLayers-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ActiveLayers",
+	"pools" : [
+		 ],
+	"super" : "ProcessLocalVariable",
+	"type" : "normal" }
