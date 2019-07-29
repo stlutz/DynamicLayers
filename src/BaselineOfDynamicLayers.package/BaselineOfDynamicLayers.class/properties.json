@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDynamicLayers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDynamicLayers",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
