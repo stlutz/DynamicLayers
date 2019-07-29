@@ -1,4 +1,4 @@
 installation
 uninstall
 
-	self subclassResponsibility
+	self logUninstallation

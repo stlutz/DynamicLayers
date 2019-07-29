@@ -1,7 +1,21 @@
 {
 	"class" : {
-		 },
+		"empty" : "stlu 4/12/2019 09:44",
+		"new" : "stlu 4/11/2019 21:23",
+		"new:" : "stlu 4/11/2019 21:19",
+		"newFrom:" : "stlu 4/11/2019 21:24" },
 	"instance" : {
-		"activate" : "stlu 3/26/2019 13:01",
-		"deactivate" : "stlu 3/26/2019 13:01",
-		"layers" : "stlu 3/26/2019 22:13" } }
+		"add:" : "stlu 4/11/2019 22:24",
+		"beActiveLayersDuring:" : "stlu 4/11/2019 20:55",
+		"copyWithAll:" : "stlu 4/11/2019 22:46",
+		"copyWithoutAll:" : "stlu 4/11/2019 22:53",
+		"do:" : "stlu 4/11/2019 22:36",
+		"includes:" : "stlu 4/11/2019 22:25",
+		"initialize:" : "stlu 4/11/2019 21:21",
+		"isLayerSet" : "stlu 4/11/2019 00:12",
+		"layers" : "stlu 4/11/2019 20:57",
+		"postCopy" : "stlu 4/11/2019 22:50",
+		"remove:ifAbsent:" : "stlu 4/11/2019 21:35",
+		"with:do:" : "stlu 4/12/2019 10:35",
+		"withOnly:do:" : "stlu 4/12/2019 13:24",
+		"without:do:" : "stlu 4/12/2019 10:57" } }

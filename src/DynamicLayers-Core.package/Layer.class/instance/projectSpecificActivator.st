@@ -1,4 +1,0 @@
-activators
-projectSpecificActivator
-
-	^ [self hasActiveProject]

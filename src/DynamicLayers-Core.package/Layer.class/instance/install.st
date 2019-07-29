@@ -1,4 +1,4 @@
 installation
 install
 
-	self subclassResponsibility
+	self logInstallation

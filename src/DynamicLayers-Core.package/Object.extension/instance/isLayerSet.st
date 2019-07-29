@@ -1,0 +1,4 @@
+*DynamicLayers-Core
+isLayerSet
+
+	^ false

@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activateDuring:" : "stlu 4/12/2019 13:26",
+		"activateExclusivelyDuring:" : "stlu 4/12/2019 13:25",
+		"deactivateDuring:" : "stlu 4/12/2019 13:26" } }

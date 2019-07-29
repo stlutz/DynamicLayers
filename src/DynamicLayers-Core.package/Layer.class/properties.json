@@ -6,11 +6,7 @@
 		"NamedLayers" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"preconditions",
-		"activators",
-		"processes",
-		"projects",
-		"name" ],
+		"installationCount" ],
 	"name" : "Layer",
 	"pools" : [
 		 ],

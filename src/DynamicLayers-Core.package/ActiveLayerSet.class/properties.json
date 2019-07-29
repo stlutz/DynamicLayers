@@ -1,15 +1,14 @@
 {
 	"category" : "DynamicLayers-Core",
 	"classinstvars" : [
-		"empty" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"layers",
-		"highestPriority" ],
-	"name" : "LayerSet",
+		 ],
+	"name" : "ActiveLayerSet",
 	"pools" : [
 		 ],
-	"super" : "Collection",
+	"super" : "Notification",
 	"type" : "normal" }

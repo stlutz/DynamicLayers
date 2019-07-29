@@ -1,4 +1,0 @@
-default conditions
-globalCondition
-
-	^ true
